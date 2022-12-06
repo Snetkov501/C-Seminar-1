@@ -1,0 +1,15 @@
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.csproj.AssemblyReference.cache
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.GeneratedMSBuildEditorConfig.editorconfig
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.AssemblyInfoInputs.cache
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.AssemblyInfo.cs
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.csproj.CoreCompileInputs.cache
+X:\IT GB\GeekBrains\C# S1 Z6\bin\Debug\net6.0\C# S1 Z6.exe
+X:\IT GB\GeekBrains\C# S1 Z6\bin\Debug\net6.0\C# S1 Z6.deps.json
+X:\IT GB\GeekBrains\C# S1 Z6\bin\Debug\net6.0\C# S1 Z6.runtimeconfig.json
+X:\IT GB\GeekBrains\C# S1 Z6\bin\Debug\net6.0\C# S1 Z6.dll
+X:\IT GB\GeekBrains\C# S1 Z6\bin\Debug\net6.0\C# S1 Z6.pdb
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.dll
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\refint\C# S1 Z6.dll
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.pdb
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\C# S1 Z6.genruntimeconfig.cache
+X:\IT GB\GeekBrains\C# S1 Z6\obj\Debug\net6.0\ref\C# S1 Z6.dll

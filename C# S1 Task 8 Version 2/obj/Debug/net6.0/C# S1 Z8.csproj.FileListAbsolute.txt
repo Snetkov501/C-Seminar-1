@@ -1,0 +1,30 @@
+X:\IT GB\GeekBrains\C# S1 Z8\bin\Debug\net6.0\C# S1 Z8.exe
+X:\IT GB\GeekBrains\C# S1 Z8\bin\Debug\net6.0\C# S1 Z8.deps.json
+X:\IT GB\GeekBrains\C# S1 Z8\bin\Debug\net6.0\C# S1 Z8.runtimeconfig.json
+X:\IT GB\GeekBrains\C# S1 Z8\bin\Debug\net6.0\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Z8\bin\Debug\net6.0\C# S1 Z8.pdb
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.csproj.AssemblyReference.cache
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.GeneratedMSBuildEditorConfig.editorconfig
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.AssemblyInfoInputs.cache
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.AssemblyInfo.cs
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.csproj.CoreCompileInputs.cache
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\refint\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.pdb
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\C# S1 Z8.genruntimeconfig.cache
+X:\IT GB\GeekBrains\C# S1 Z8\obj\Debug\net6.0\ref\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\bin\Debug\net6.0\C# S1 Z8.exe
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\bin\Debug\net6.0\C# S1 Z8.deps.json
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\bin\Debug\net6.0\C# S1 Z8.runtimeconfig.json
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\bin\Debug\net6.0\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\bin\Debug\net6.0\C# S1 Z8.pdb
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.csproj.AssemblyReference.cache
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.GeneratedMSBuildEditorConfig.editorconfig
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.AssemblyInfoInputs.cache
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.AssemblyInfo.cs
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.csproj.CoreCompileInputs.cache
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\refint\C# S1 Z8.dll
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.pdb
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\C# S1 Z8.genruntimeconfig.cache
+X:\IT GB\GeekBrains\C# S1 Task 8 Version 1\obj\Debug\net6.0\ref\C# S1 Z8.dll
